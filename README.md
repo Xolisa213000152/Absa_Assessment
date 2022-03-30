@@ -1,4 +1,4 @@
-# Absa_assessment
+
 # Absa Assessment
 This is a automation testing project for http://www.way2automation.com/angularjs-protractor/webtables/. This project is build using Java, IntelliJ IDE, Maven and Selenium WebDriver. The automation testing covers the scenario:
 Navigate to http://www.way2automation.com/angularjs-protractor/webtables/
